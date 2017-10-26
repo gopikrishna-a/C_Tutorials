@@ -3,9 +3,8 @@
 int main()
 {
 
-	int cnt = 1;
-	int num = 5;
-	printf("Enter number of rows of the pyramid: ");
+	int num;
+	printf("Enter number of rows of the triangle: ");
 	scanf("%d",&num);
 	int i;
 	int j;
