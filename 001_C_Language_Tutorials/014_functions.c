@@ -16,7 +16,8 @@ int main()
 	scanf("%d", &b);
 
 
-	compare_three_nums(a, b);
+	compare_three_nums(a, b); //Calling function to compare values
+	
 	printf("Comparision completed!!!\n");
 	return 0;
 
